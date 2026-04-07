@@ -5,8 +5,8 @@
 <h3 align="center">DecisionNode</h3>
 
 <p align="center">
-  Store development decisions as vector embeddings.<br/>
-  Query them via semantic search. CLI + MCP server for AI agents.
+  Record a decision, embed it as a vector, search it later.
+  One store shared across all your AI tools: Claude Code, Cursor, Windsurf, and any MCP client.
 </p>
 
 <p align="center">
