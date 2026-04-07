@@ -15,9 +15,6 @@
 </p>
 
 ---
-
-Your AI keeps forgetting what you agreed on. DecisionNode stores architectural decisions, embeds them as vectors, and makes them queryable — so the AI can search them before writing code.
-
 ### Get started
 
 ```bash
