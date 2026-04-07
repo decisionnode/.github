@@ -5,7 +5,6 @@
 <h3 align="center">DecisionNode</h3>
 
 <p align="center">
-  Record a decision, embed it as a vector, search it later.
   One store shared across all your AI tools: Claude Code, Cursor, Windsurf, and any MCP client.
 </p>
 
