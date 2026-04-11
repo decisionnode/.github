@@ -5,7 +5,7 @@
 <h3 align="center">DecisionNode</h3>
 
 <p align="center">
-  One store shared across all your AI tools: Claude Code, Cursor, Windsurf, and any MCP client.
+  CLI + Local MCP - A shared structured memory store across Claude Code, Cursor, Windsurf, Antigravity, and every MCP client. Semantically queryable.
 </p>
 
 <p align="center">
